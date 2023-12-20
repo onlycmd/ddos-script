@@ -43,7 +43,7 @@ my ($ip) = @ARGV;
 
 if ($help || !$ip) {
   print <<'EOL';
- Komutun kullanımı: perl cqHack.pl a.b.c.d
+ Komutun kullanımı: perl fivdos.pl a.b.c.d
 EOL
   exit(1);
 }
